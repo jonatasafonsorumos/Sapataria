@@ -38,4 +38,12 @@ while(true){
 
 string password = "sdsdfsdfsdfsdfsdf234324234";
 
+for (int i = 0; i <= 100; i++){
+   for (int j = 0; j <= 100; j++){
+      for (int w = 0; w <= 100; w++){
+               Console.WriteLine("Mais uma linha");
+         }   
+   }   
+}
+
 
